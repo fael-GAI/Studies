@@ -1,0 +1,14 @@
+{
+  "name": "task-tracker",
+  "version": "1.0.0",
+  "description": "A command-line task management application",
+  "main": "task-cli.js",
+  "bin": {
+    "task-cli": "./task-cli.js"
+  },
+  "scripts": {
+    "start": "node task-cli.js"
+  },
+  "keywords": ["task", "cli", "tracker"],
+  "license": "MIT"
+}
